@@ -1,0 +1,18 @@
+{
+  "name": "best-practice-express",
+  "version": "1.0.0",
+  "description": "## Goal:  Build and host a straightforward Express app using best practices in performance and security. Integrate with frontend and database. Document process and app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
